@@ -1,0 +1,29 @@
+{
+  "name": "karaokechan",
+  "version": "0.0.1",
+  "description": "A Discord Karaoke bot",
+  "main": "KaraokeChan.js",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node KaraokeChan.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RwbyChan/KaraokeChan.git"
+  },
+  "keywords": [
+    "discord",
+    "karaoke",
+    "bot"
+  ],
+  "author": "RwbyChan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RwbyChan/KaraokeChan/issues"
+  },
+  "homepage": "https://github.com/RwbyChan/KaraokeChan#readme"
+}
